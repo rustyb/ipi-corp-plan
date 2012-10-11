@@ -1,0 +1,64 @@
+.speakers {
+  list-style:none;
+}
+
+.speakers a {
+  font-size:2em;
+  font-weight:bold;
+}
+#footer {
+	  background: #ebebeb 0 100% ;
+	  margin-top: 50px;
+	  padding: 20px 0 45px;
+}
+
+.title {
+    background: none repeat scroll 0 0 #000000;
+    border-radius: 6px 6px 0 0;
+    bottom: 1px;
+    display: block;
+    padding: 10px 30px 10px 10px;
+    top: 0;
+    
+}
+.thumb {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.75) inset;
+    height: 40px;
+    margin: 0 1px 1px 0;
+    width: 40px;
+	display:block;
+	float:left;
+}
+.bar .l .thumb {
+    width: 239px;
+}
+.bar .s .thumb {
+    height: 39px;
+    width: 39px;
+}
+
+.section { padding: 10px 0 10px 0;}
+.section{ *zoom: 1; }
+.section:before, .section:after { content: ""; display: table; }
+.section:after { clear: both; }
+
+#wrapper {background:#FFF6E5 no-repeat center 30px;padding-top:30px;}
+.navbar {
+	margin: 15px 0 14px;
+	padding:15px 10px;;
+	background-color:#fff;
+	border-radius:6px;
+}
+.navbar a {text-transform:uppercase;font-weight:bold;padding:0 10px;font-size:17px;}
+.social {font-size:2em;}
+.social a:hover {color:#FF00BF;}
+
+.button { width: auto; background: #2ba6cb; border: 1px solid #1e728c; -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; color: white; cursor: pointer; display: inline-block; font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; line-height: 1; margin: 0; outline: none; padding: 10px 20px 11px; position: relative; text-align: center; text-decoration: none; -webkit-transition: background-color 0.15s ease-in-out; -moz-transition: background-color 0.15s ease-in-out; -o-transition: background-color 0.15s ease-in-out; transition: background-color 0.15s ease-in-out; /* Hovers */ /* Sizes */ /* Colors */ /* Radii */ /* Layout */ /* Disabled ---------- */ }
+.button:hover { color: white; background-color: #2284a1; }
+.button:active { -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset; -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset; }
+.button:focus { -webkit-box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; -moz-box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; color: white; }
+
+
+#ipi-link {background:#FFF6E5;}
+#ipi-link a {padding:10px;background:#000;color:#FFF;margin-top:5px;border-radius:5px;font-size:17px;}
+#ipi-link a:hover {background:#C60F13;}
