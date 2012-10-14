@@ -1,0 +1,13 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+
+### OS files
+# Mac OS X
+.DS_Store
+/Icon*
+._*
+.tmproj
+_site/
