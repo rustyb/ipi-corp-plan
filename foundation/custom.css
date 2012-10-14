@@ -97,6 +97,12 @@ background-size: cover;
 .white {
 	background:#FFF;
 }
+.round-corners {
+	-moz-border-radius-bottomright:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-right-radius:8px;
+	border-bottom-left-radius:8px;
+}
 /*#ipi-link a {padding:10px;background:#000;color:#FFF;margin-top:5px;border-radius:5px;font-size:17px;}
 #ipi-link a:hover {background:#C60F13;}*/
 ul.side-nav {padding-top:0;}
