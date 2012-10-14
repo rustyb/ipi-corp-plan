@@ -59,6 +59,59 @@
 .button:focus { -webkit-box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; -moz-box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; box-shadow: 0 0 4px #2ba6cb, 0 1px 0 rgba(255, 255, 255, 0.5) inset; color: white; }
 
 
-#ipi-link {background:#FFF6E5;}
-#ipi-link a {padding:10px;background:#000;color:#FFF;margin-top:5px;border-radius:5px;font-size:17px;}
-#ipi-link a:hover {background:#C60F13;}
+/* Nicolas Gallagher's micro clearfix */
+#branding { *zoom: 1; }
+#branding:before, #branding:after { content: ""; display: table; }
+#branding:after { clear: both; }
+
+#branding {background:#3C4E5A;padding:10px 0;}
+#branding .logo {
+display: inline-block;
+vertical-align: middle;
+height: 60px;
+width: 320px;
+/*text-indent: -9999px;*/
+overflow: hidden;
+}
+#branding .section-title {
+font-family: 'Opensans Condensed',Arial,sans-serif;
+font-size: 15px;
+color: white;
+display: inline-block;
+vertical-align: middle;
+background: #28353D;
+padding: 0px 30px;
+margin: 10px 0px;
+text-transform: uppercase;
+border-radius: 4px;
+height: 40px;
+line-height: 40px;
+}
+
+.plan-photo {
+height: 300px;
+background: url(../img/header.png) 0 50% no-repeat;
+margin: 0px -20px 30px -20px;
+background-size: cover;
+}
+.white {
+	background:#FFF;
+}
+/*#ipi-link a {padding:10px;background:#000;color:#FFF;margin-top:5px;border-radius:5px;font-size:17px;}
+#ipi-link a:hover {background:#C60F13;}*/
+ul.side-nav {padding-top:0;}
+ul.side-nav li a {
+	margin-left:-20px;
+	padding: 10px 20px;
+	white-space: nowrap;
+	text-overflow: ellipsis;	
+}
+ul.side-nav li.active a { 
+border-radius: 0px 4px 4px 0px;
+background: #68B0D4;
+color: white;}
+
+
+
+
+
