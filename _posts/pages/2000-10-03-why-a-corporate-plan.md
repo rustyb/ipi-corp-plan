@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Why make a plan?
+title: Why a Corporate Plan?
 permalink: /why-a-corporate-plan
 group: navigation
 ---
