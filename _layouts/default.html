@@ -190,8 +190,15 @@
 							<a href="#">Contact</a>
 						</div>
 					</div>
-					<div class="five columns">
+					<div class="five columns blog_posts">
 						<h5>Recent Updates</h5>
+						<div class="links">
+						{% for post in site.posts limit:4 %}
+						<a href="{{ base }}{{post.url}}"><small class="date">{{ post.date | date: '%d %b %Y' }}</small>
+							{{ post.title }}</a>
+						{% endfor %}	
+						</div>
+						
 					</div>
 				</div>
 			<!--	<div class="row">
