@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+{% assign base = site.baseurl %}
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+	<title>{{ page.title }}</title>
+
+	<!-- Included CSS Files (Uncompressed) -->
+	<!--
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	-->
+
+	<!-- Included CSS Files (Compressed) -->
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/foundation.min.css">
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/app.css">
+	<link rel="stylesheet" href="{{base}}/foundation/stylesheets/social_foundicons.css">
+	<link rel="stylesheet" href="{{base}}/foundation/custom.css">
+
+	<script src="{{base}}/foundation/javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="branding">
+	
+		<div class="twelve columns">
+			<a class="logo" href="http://ipi.ie" title="&larr; Back to IPI.ie"><img src="{{base}}/img/IPI-logo1.png" /></a>
+          <a class="section-title" href="">{{page.title}}</a>
+		</div>
+	
+</div>
+
+
+<div id="wrapper">
+
+
+		<div class="row">
+			<div class="nine columns white round-corners">
+				<!--<div class="plan-photo"></div>-->
+				{{ content }}
+			</div>
+			<div class="three columns">
+				<!--<ul class="side-nav">
+					{% assign pages_list = site.posts %}
+					  {% assign group = 'navigation' %}
+					  {% include pages_list %}
+				</ul>-->
+			</div>
+
+		</div>
+
+			<div id="footer">
+				<div class="row">
+					<div class="three columns">
+						<a class="button radius" style="margin-bottom:10px;" href="http://twitter.com/IrishPlanInst">
+							<i class="foundicon-twitter"></i> FOLLOW US
+						</a>
+						<a class="button radius" style="margin-bottom:10px;" href="http://www.facebook.com/pages/The-Irish-Planning-Institute/130744943633325">
+							<i class="foundicon-facebook"></i> LIKE US
+						</a>
+						<a class="button radius" style="margin-bottom:10px;" href="http://www.linkedin.com/groups/Irish-Planning-Institute-3723889">
+							<i class="foundicon-linkedin"></i> CONNECT
+						</a>
+					</div>
+					<div class="two columns">
+						<h5>Irish Planning Institute</h5>
+						<div class="links">
+							<a href="#">IPI.ie</a>
+							<a href="#">Latest News</a>
+							<a href="#">Events</a>
+						</div>
+					</div>
+					<div class="two columns">
+						<h5>Resources</h5>
+						<div class="links">
+							<a href="#">Case Studies</a>
+							<a href="#">Get Involved</a>
+							<a href="#">Contact</a>
+						</div>
+					</div>
+					<div class="five columns blog_posts">
+						<h5>Recent Updates</h5>
+						<div class="links">
+							{% assign posts_group_list = site.posts %}
+							  {% assign group = 'blog' %}
+							{% include posts_group_list %}
+						</div>
+						
+					</div>
+				</div>
+		
+</div>
+				<!-- Included JS Files (Compressed) -->
+				<script src="{{base}}/foundation/javascripts/foundation.min.js"></script>
+
+				<!-- Initialize JS Plugins -->
+				<script src="{{base}}/foundation/javascripts/app.js"></script>
+			</body>
+			</html>

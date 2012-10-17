@@ -1,0 +1,10 @@
+{% for node in posts_group_list %}
+    {% if node.title != null %}
+      {% if group == null or group == node.group %}
+		<a href="{{ base }}{{node.url}}"><small class="date">{{ node.date | date: '%d %b %Y' }}</small>{{ node.title }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+{% assign posts_group_list = nil %}
+{% assign group = nil %}
