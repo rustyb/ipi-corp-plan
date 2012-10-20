@@ -1,0 +1,25 @@
+{% for node in posts_group_index %}
+    {% if node.title != null %}
+      {% if group == null or group == node.group %}
+		<div class="post row">
+			<div class="seven columns">
+				<small class="date date-title">{{ node.date | date: '%d %b %Y' }}</small>
+				<div class="padd-40">
+					<h1>
+						<a href="{{base}}{{node.url}}">
+						{{ node.title }}
+						</a>
+					</h1>
+					<p>{{ node.snippet }}</p>
+				</div>
+			</div>
+			<div class="hide-for-small five columns thumb" style="background-image:url({{ node.image }})" >
+
+			</div>
+		</div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+{% assign posts_group_index = nil %}
+{% assign group = nil %}

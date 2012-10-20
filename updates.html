@@ -1,0 +1,31 @@
+---
+layout: blog
+title: Updates
+group: blog
+published: true
+---
+
+{% assign posts_group_index = site.posts %}
+  {% assign group = 'blog' %}
+{% include posts_group_index %}
+
+<!--{% for post in site.posts %}
+{% if 'blog' == post.group %}
+	<div class="post row">
+		<div class="seven columns">
+			<small class="date date-title">{{ post.date | date: '%d %b %Y' }}</small>
+			<div class="padd-40">
+				<h1>
+					<a href="{{base}}{{post.url}}">
+					{{ post.title }}
+					</a>
+				</h1>
+				<p>{{ post.snippet }}</p>
+			</div>
+		</div>
+		<div class="hide-for-small five columns thumb" style="background-image:url({{ post.image }})" >
+			
+		</div>
+	</div>
+{% endif %}
+{% endfor %}-->
