@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IPI Corporate Plan
+title: Corporate Plan
 permalink: /about
 group: navigation
 nav: home
