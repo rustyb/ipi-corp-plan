@@ -4,12 +4,12 @@ title: Second Update
 permalink: /updates/second-update
 group: blog
 snippet: The most exciting part of the the corporate plan is getting your feedback.
-image: http://farm9.staticflickr.com/8455/8072051911_2987814e03.jpg
+image: http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg
 section: updates
 ---
 
-### This is an update for the IPI corporate plan.
+### This is the second update for the Corporate Plan Preperation
 
-blah blah blah
+Get in line, get involved!
 
-tets test test test
+![ALT](../img/irl-terrain-1.jpg)
