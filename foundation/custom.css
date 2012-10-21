@@ -21,21 +21,6 @@
     top: 0;
     
 }
-.thumb {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.75) inset;
-    height: 40px;
-    margin: 0 1px 1px 0;
-    width: 40px;
-	display:block;
-	float:left;
-}
-.bar .l .thumb {
-    width: 239px;
-}
-.bar .s .thumb {
-    height: 39px;
-    width: 39px;
-}
 
 .section { padding: 10px 0 10px 0;}
 .section{ *zoom: 1; }

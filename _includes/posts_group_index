@@ -1,7 +1,7 @@
 {% for node in posts_group_index %}
     {% if node.title != null %}
       {% if group == null or group == node.group %}
-		<div class="post row">
+		<div class="post row {% cycle ('fill', 'fill') %}">
 			<div class="seven columns">
 				<small class="date date-title">{{ node.date | date: '%d %b %Y' }}</small>
 				<div class="padd-40">
