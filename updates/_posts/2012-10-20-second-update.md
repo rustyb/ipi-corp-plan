@@ -6,7 +6,7 @@ group: blog
 snippet: The most exciting part of the the corporate plan is getting your feedback.
 image: http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg
 section: updates
-published: false
+published: true
 ---
 
 ### This is the second update for the Corporate Plan Preperation
@@ -22,6 +22,7 @@ Get involved with creating our new corporate plan, it's as easy as sending an em
 <div id="wufoo-z7x3p9">
 Fill out my <a href="http://irishpi.wufoo.com/forms/z7x3p9">online form</a>.
 </div>
+
 <script type="text/javascript">var z7x3p9;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'irishpi', 
