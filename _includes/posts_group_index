@@ -6,9 +6,7 @@
 				<small class="date date-title">{{ node.date | date: '%d %b %Y' }}</small>
 				<div class="padd-40">
 					<h1>
-						<a href="{{base}}{{node.url}}">
-						{{ node.title }}
-						</a>
+						<a href="{{ site.baseurl}}{{node.url}}">{{ node.title }}</a>
 					</h1>
 					<p>{{ node.snippet }}</p>
 				</div>

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: First Update
 permalink: /updates/first-update
 group: blog

@@ -50,7 +50,17 @@
 				
 				{{ content }}
 				
-				
+				<div class="row round-corners">
+					<div class="pager-box">
+					  		  {% if page.previous.url %}
+									<a class="four columns" href="{{ site.baseurl }}{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">Previous</a>
+						      {% endif %}
+									<a class=" four columns" href="{{ site.baseurl }}/updates" title="Update Index">All Updates</a>
+						      {% if page.next.url %}
+						        	<a class="four columns" href="{{ site.baseurl }}{{page.next.url}}" title="Next Post: {{page.next.title}}">Next</a>
+						      {% endif %}
+					</div>
+				</div>
 			</div>
 
 		</div>

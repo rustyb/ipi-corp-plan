@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IPI Corporate Plan
-permalink: /
+permalink: /about-the-corporate-plan
 group: navigation
 ---
 
