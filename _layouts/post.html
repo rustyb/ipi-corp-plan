@@ -66,46 +66,9 @@
 		</div>
 
 			<div id="footer">
-				<div class="row">
-					<div class="three columns">
-						<a class="button radius" style="margin-bottom:10px;" href="http://twitter.com/IrishPlanInst">
-							<i class="foundicon-twitter"></i> FOLLOW US
-						</a>
-						<a class="button radius" style="margin-bottom:10px;" href="http://www.facebook.com/pages/The-Irish-Planning-Institute/130744943633325">
-							<i class="foundicon-facebook"></i> LIKE US
-						</a>
-						<a class="button radius" style="margin-bottom:10px;" href="http://www.linkedin.com/groups/Irish-Planning-Institute-3723889">
-							<i class="foundicon-linkedin"></i> CONNECT
-						</a>
-					</div>
-					<div class="two columns">
-						<h5>Irish Planning Institute</h5>
-						<div class="links">
-							<a href="#">IPI.ie</a>
-							<a href="#">Latest News</a>
-							<a href="#">Events</a>
-						</div>
-					</div>
-					<div class="two columns">
-						<h5>Resources</h5>
-						<div class="links">
-							<a href="#">Case Studies</a>
-							<a href="#">Get Involved</a>
-							<a href="#">Contact</a>
-						</div>
-					</div>
-					<div class="five columns blog_posts">
-						<h5>Recent Updates</h5>
-						<div class="links">
-							{% assign posts_group_list = site.posts %}
-							  {% assign group = 'blog' %}
-							{% include posts_group_list %}
-						</div>
-						
-					</div>
-				</div>
+				{% include footer.html %}		
 		
-</div>
+			</div>
 				<!-- Included JS Files (Compressed) -->
 				<script src="{{base}}/foundation/javascripts/foundation.min.js"></script>
 

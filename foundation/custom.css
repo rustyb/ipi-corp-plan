@@ -203,5 +203,6 @@ animation: fadeIn 500ms ease 2000ms backwards;
 }
 
 .plan-elements {text-align:center;}
+.fill {background: #F8F8F8;}
 
 
