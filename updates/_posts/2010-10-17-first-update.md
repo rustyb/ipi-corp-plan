@@ -8,8 +8,10 @@ image: http://farm9.staticflickr.com/8455/8072051911_2987814e03.jpg
 section: updates
 ---
 
-### This is an update for the IPI corporate plan.
+### The work for the corporate plan has kicked off!
 
-blah blah blah
+Initial research and analysis is being undertaken that will inform the overall process. In advance of the engagement process, we would welcome all initial perspectives, comments or recommendations.
 
-tets test test test
+![Alt text]({{post.image}})
+
+
