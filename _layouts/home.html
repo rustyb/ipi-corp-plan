@@ -32,8 +32,20 @@
 	<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
 </head>
 <body class="home">
-<div id="branding" style="padding:40px 0;">
-		{% include header.html %}
+<div id="branding" >
+		<div class="six columns">
+			<a class="logo" href="{{ site.baseurl }}/" title="&larr; Back to IPI.ie"><img src="{{base}}/img/IPI-logo_b.png" /></a>
+		  	{% if page.section %}
+			 <a class="section-title" href="{{site.baseurl}}/{{page.section}}">{{page.section}}</a>
+			{% endif %}
+		</div>
+		<div class="six columns">
+			<ul class="menu">
+				{% assign home_nav = site.pages %}
+				{% assign nav = 'home' %}
+				{% include home_nav %}
+			</ul>
+		</div>
 </div>
 
 
