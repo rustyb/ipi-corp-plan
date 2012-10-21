@@ -1,8 +1,9 @@
 ---
 layout: default
 title: IPI Corporate Plan
-permalink: /about-the-corporate-plan
+permalink: /about
 group: navigation
+nav: home
 ---
 
 It is envisaged that the following key areas, inter alia, will be reviewed during the preparation of the Plan: 

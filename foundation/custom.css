@@ -42,7 +42,10 @@
 .section:before, .section:after { content: ""; display: table; }
 .section:after { clear: both; }
 
-#wrapper {background:#FFF6E5 no-repeat center 30px;padding-top:0px;}
+#wrapper {background:#EEE url('https://tiles.mapbox.com/assets/tilestream-pro/img/dotgrid-black.png');padding-top:0px;}
+.fillM {
+background: ;
+}
 .navbar {
 	margin: 15px 0 14px;
 	padding:15px 10px;;
@@ -203,5 +206,60 @@ animation: fadeIn 500ms ease 2000ms backwards;
 
 .plan-elements {text-align:center;}
 .fill {background: #F8F8F8;}
+
+.blog #branding, .post #branding {background:#BBDDE9;}
+.home #branding .menu, .blog #branding .menu {
+display: block;
+}
+#branding {background:#fff; padding:40px 0;}
+#branding .menu {
+  display:none;
+  padding:10px 0px;
+  list-style: none;
+  }
+
+#branding .menu li { float:left; width:20.8333%; margin-left: 4.1667%; }
+#branding .menu li:first-child { margin-left: 0; }
+#branding .menu li a {
+  font-family:'Opensans Condensed',Arial,sans-serif;
+  font-size:15px;
+  font-weight:bold;
+  position:relative;
+  display:block;
+  text-transform:uppercase;
+  text-align:center;
+  white-space:nowrap;
+  position:relative;
+  z-index:0;
+  padding:0px 5px;
+  border-radius:4px;
+  }
+
+#branding .menu li a:hover {
+  background:rgba(0,0,0,0.05);
+  box-shadow:rgba(0,0,0,0.05) 0px 0px 0px 5px;
+  }
+
+#branding .menu .active a {
+  z-index:1;
+  color:#fff;
+  background:#3887be;
+  text-shadow:rgba(0,0,0,0.2) 0px -1px;
+  box-shadow:rgba(0,0,0,0.05) 0px 0px 0px 5px;
+  }
+  #branding .menu .active a:hover {
+  background: #3bb2d0;
+  }
+#branding .menu .plans a { color:#8a8acb; }
+#branding .menu .plans.active a {
+  color:#fff;
+  background:#8a8acb;
+  }
+  #branding .menu .plans.active a:hover { background: #bd93e5; }
+.tour .branding { background:#fff; padding-top:50px; padding-bottom:50px; }
+.tour .branding .logo { background-position:0px 0px; }
+.tour .branding .menu { display:block; }
+.tour .branding .section-title { display:none; }
+
 
 

@@ -1,0 +1,14 @@
+{% for node in home_nav %}
+    {% if node.title != null %}
+      {% if nav == null or nav == node.nav %}
+      	{% if page.url == node.url %}
+      	<li class="active"><a href="{{ base }}{{node.url}}" class="active">{{node.title}}</a></li>
+      	{% else %}
+      	<li><a href="{{ base }}{{node.url}}">{{node.title}}</a></li>
+      	{% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+{% assign home_nav = nil %}
+{% assign nav = nil %}
