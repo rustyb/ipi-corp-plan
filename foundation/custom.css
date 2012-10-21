@@ -218,8 +218,8 @@ display: block;
   list-style: none;
   }
 
-#branding .menu li { float:left; width:20.8333%; margin-left: 4.1667%; }
-#branding .menu li:first-child { margin-left: 0; }
+#branding .menu li { float:right; width:33.8333%; margin-right: 4.1667%; }
+#branding .menu li:first-child { margin-right: 0; }
 #branding .menu li a {
   font-family:'Opensans Condensed',Arial,sans-serif;
   font-size:15px;
