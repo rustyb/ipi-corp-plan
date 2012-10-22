@@ -13,7 +13,3 @@ section: updates
 Initial research and analysis is being undertaken that will inform the overall process. In advance of the engagement process, we would welcome all initial perspectives, comments or recommendations.
 
 ![Alt text]({{page.image}})
-
-
-
-
