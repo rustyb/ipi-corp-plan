@@ -6,6 +6,7 @@ permalink: /updates/fifth-update
 section: updates
 group: blog
 image: http://farm9.staticflickr.com/8462/8072053433_ba8a6b2746.jpg
+snippet: This is an update
 ---
 
 ## Welcome to the IPI
