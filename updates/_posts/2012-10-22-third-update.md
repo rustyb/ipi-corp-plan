@@ -12,8 +12,6 @@ section: updates
 
 Initial research and analysis is being undertaken that will inform the overall process. In advance of the engagement process, we would welcome all initial perspectives, comments or recommendations.
 
+This has been updated by [IPIrl](http://github.com/IPIrl) using Prose.io and GitHub.
+
 ![Alt text]({{page.image}})
-
-
-
-
