@@ -8,7 +8,7 @@ group: blog
 image: http://farm9.staticflickr.com/8462/8072053433_ba8a6b2746.jpg
 ---
 
-## Welcome
+## Welcome to the IPI
 
 The Irish Planning Institute is the professional body representing the majority of professional planners engaged in the physical and environmental planning in Ireland. Founded in 1975, the IPI now represents circa 700 qualified planners in Ireland. The Institute consists of a governing Council, and a number of Regional Branches and the Private Sector Branch who organise locally relevant events.
 
