@@ -40,8 +40,14 @@
 <div id="wrapper">
 		<div class="row" style="padding-top:40px;">
 			<div class="twelve columns white round-corners">
+				<div class="nine columns">
+					{{ content }}
+				</div>
+				<div class="three columns">
+					<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+					<p><a href="https://twitter.com/intent/tweet?text={{page.title}}&url={{site.url}}{{page.url}}&via=irishplaninst">Tweet this post</a></p>
+				</div>
 				
-				{{ content }}
 				
 				<div class="row round-corners">
 					<div class="pager-box">

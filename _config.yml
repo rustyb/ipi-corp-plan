@@ -5,3 +5,4 @@ exclude:
   - sample-post
 permalink: pretty
 baseurl: http://rustyb.github.com/ipi-corp-plan
+url: http://rustyb.github.com/ipi-corp-plan

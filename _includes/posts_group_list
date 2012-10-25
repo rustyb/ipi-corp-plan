@@ -1,6 +1,6 @@
-{% for node in posts_group_list %}
+{% for node in posts_group_list limit:4 %}
     {% if node.title != null %}
-      {% if group == null or group == node.group %}
+      {% if group == null or group == node.group  %}
 		<a href="{{ base }}{{node.url}}"><small class="date">{{ node.date | date: '%d %b %Y' }}</small>{{ node.title }}</a>
       {% endif %}
     {% endif %}
