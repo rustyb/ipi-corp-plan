@@ -4,5 +4,5 @@ exclude:
   - README.md
   - sample-post
 permalink: pretty
-baseurl: http://corporateplan.ipi.ie/
-url: http://corporateplan.ipi.ie/
+baseurl: http://corporateplan.ipi.ie
+url: http://corporateplan.ipi.ie
