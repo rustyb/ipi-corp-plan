@@ -10,6 +10,4 @@ Sean O’Riordain and Associates are one of Ireland’s leading consulting servi
 
 <div class="credits">
 
-If you wish to contact Sean O’Riordain and Associates please go to there website <a href="http://seanoriordain.ie/">seanoriordain.ie</a>
-
 </div>
