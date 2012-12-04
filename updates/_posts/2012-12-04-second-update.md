@@ -18,6 +18,6 @@ This will be followed by facilitated members’ workshops being held across Irel
 This will be followed by the survey distributed via email next Monday (10th December).
 
 <div class="credits">
-<b>The Corporate Plan steering group always welcome any comments or suggestions by email to [corporateplan@ipi.ie](mailto:corporateplan@ipi.ie).</b>
+<b>The Corporate Plan steering group always welcome any comments or suggestions by email to <a href="mailto:corporateplan@ipi.ie">[corporateplan@ipi.ie</a>.</b>
 
 </div>
