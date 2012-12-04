@@ -7,9 +7,10 @@ snippet: An essential part of the plan is consulting with members.
 image: http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg
 section: updates
 published: true
+photo: true
 ---
 
-![HeaderImage](http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg)
+
 ### Corporate Plan Preperation continues a pace
 
 An essential part of the development of the Institute’s Corporate Plan is consulting with members regarding what the key objectives should be and how these can be delivered and measured. The next opportunity for members to give their input is an online survey being issued by email on **10th December**.

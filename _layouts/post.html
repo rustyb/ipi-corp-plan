@@ -36,11 +36,14 @@
 		{% include header.html %}
 </div>
 
-
 <div id="wrapper">
 		<div class="row" style="padding-top:40px;">
 			<div class="twelve columns white round-corners">
+				
 				<div class="nine columns">
+					{% if page.photo  %}
+					<div class="plan-photo1" style="background:url({{ page.image }}) 0 50% no-repeat;"></div>
+					{% endif %}
 					{{ content }}
 				</div>
 				<div class="three columns">
