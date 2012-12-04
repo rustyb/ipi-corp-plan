@@ -42,7 +42,7 @@
 				
 				<div class="nine columns">
 					{% if page.photo  %}
-					<div class="plan-photo1" style="background:url({{ page.image }}) 0 50% no-repeat;"></div>
+					<div class="plan-photo1" style="background:url({{ page.image }}); no-repeat; background-size: cover;"></div>
 					{% endif %}
 					{{ content }}
 				</div>
