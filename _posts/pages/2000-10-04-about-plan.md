@@ -20,4 +20,4 @@ It is envisaged that the following key areas, inter alia, will be reviewed durin
 
 The Corporate and Business Plan is being prepared by the Council of the Institute and a steering committee drawn from Members of the Council has been assembled to deliver the plan. This comprises Joanna Kelly (IPI President), Mary Crowley (IPI Vice President) and Darragh McGonigle (IPI Treasurer). The Institute’s Planning Manager Seán O’Leary is responsible for managing the overall process.
 
-To guide the delivery of the project **Séan Ó’Riodáin** of _Séan Ó’Riodáin and Associates_ has been appointed to provide consultancy services on corporate and business planning.
+To guide the delivery of the project **Séan Ó’Riordáin** of _Séan Ó’Riordáin and Associates_ has been appointed to provide consultancy services on corporate and business planning.
