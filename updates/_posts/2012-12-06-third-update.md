@@ -1,6 +1,11 @@
 ---
-layout: default
-published: true
+layout: post
+title: Third Update
+permalink: /updates/third-update
+group: blog
+snippet: January Workshop Schedule
+image: http://db.tt/304ilUgG
+section: updates
 ---
 
 ### Corporate Plan Update and Workshop Schedule
