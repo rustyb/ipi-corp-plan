@@ -12,7 +12,7 @@ photo: true
 
 ### Members' Survey Launched - Closes 21st December
 
-As part of this process we are seeking your views on the Institute as you have experienced it and your suggestions regarding the future role and organisation of the IPI via an online survey.http://prose.io/#
+As part of the process of developing the Corporate Plan we are seeking your views on the Institute as you have experienced it and your suggestions regarding the future role and organisation of the IPI via an online survey.
 
 To begin the survey [click here] (http://IPICorporatePlan.questionpro.com)
 
