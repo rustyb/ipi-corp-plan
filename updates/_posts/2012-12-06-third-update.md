@@ -13,21 +13,21 @@ published: true
 
 The timeline below presents the key opportunities for you to participate in the development of the Plan up to its completion in May 2013. 
  
-October 2012 - Corporate Plan process launched, background research begins & suggestions invited to corporateplan@ipi.ie
+**October 2012** - Corporate Plan process launched, background research begins & suggestions invited to corporateplan@ipi.ie
 
-10th December 2012	- Online survey issued to members by email
+**10th December 2012**	- Online survey issued to members by email
 
-21st December 2012 - Online survey closing date
+**21st December 2012** - Online survey closing date
 
-18th January 2013 - Issues Paper issued for consultation
+**18th January 2013** - Issues Paper issued for consultation
 
-January 2013 - Facilitated workshops take place-see details below
+**January 2013** - Facilitated workshops take place-see details below
 
-March 2013 - Consultation on Draft Plan
+**March 2013** - Consultation on Draft Plan
 
-April 2013 - Consultation on Final Draft Plan
+**April 2013** - Consultation on Final Draft Plan
 
-May 2013 - Plan adopted at AGM
+**May 2013** - Plan adopted at AGM
  
 The upcoming opportunities to engage in the process are the online survey being issued by email to this address next Monday, 10th December and the facilitated  workshops being held across Ireland in the New Year. Your participation in the survey is vital to ensure the Issues Paper properly reflects the matters you believe the Plan should consider. The workshops will discuss the areas above, the topics identified in the Issues Paper and any other matters regarding the Institute and its role and operations you wish to raise.
  
@@ -35,25 +35,25 @@ The following workshops are scheduled for the New Year. Planners across all cate
 
 It is essential that you confirm your place at the workshop you wish to attend as soon as possible via the links below or by email to corporateplan@ipi.ie. An Issues Paper will be available in advance of these workshops. Please feel free to encourage your colleagues to participate and non-members may also attend.
  
-2pm Monday 21st January TBC - County House, Lifford, Co. Donegal	
+**2pm Monday 21st January** TBC - County House, Lifford, Co. Donegal	
 
-6pm Tuesday 22nd January - Public Sector only - IPI offices, Dublin - [click here to book] (http://ipipublic22jan.eventbrite.ie)
+**6pm Tuesday 22nd January** - Public Sector only - IPI offices, Dublin - [click here to book] (http://ipipublic22jan.eventbrite.ie)
 
-6pm Wednesday 23rd January - Private Practice only - IPI offices, Dublin - [click here to book] (http://ipiprvt23jan.eventbrite.ie)	
+**6pm Wednesday 23rd January** - Private Practice only - IPI offices, Dublin - [click here to book] (http://ipiprvt23jan.eventbrite.ie)	
 
-5pm Thursday 24th January - Open to all but particularly Students/Graduates/YPN	- DIT Bolton Street, Dublin	- [click here to book] (http://youngplanner24jan.eventbrite.ie)
+**5pm Thursday 24th January** - Open to all but particularly Students/Graduates/YPN	- DIT Bolton Street, Dublin	- [click here to book] (http://youngplanner24jan.eventbrite.ie)
 
-6pm Monday 28th January	- MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
+**6pm Monday 28th January**	- MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
 
-6pm Tuesday 29th January - Limerick County Council, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)		
+**6pm Tuesday 29th January** - Limerick County Council, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)		
 
-6pm Thursday 31st January - Venue TBC, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
+**6pm Thursday 31st January** - Venue TBC, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
 
-6pm Tuesday 5th February - IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
+**6pm Tuesday 5th February** - IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
 
-TBC, Belfast	
+**TBC** - Belfast	
 
-TBC, Galway	
+**TBC** - Galway	
  
 If you are not available to attend a workshop, the Corporate Plan steering group welcome any comments on the forthcoming Issues Paper or general suggestions by email to corporateplan@ipi.ie and all members are encouraged to complete the online survey next week.  
 
