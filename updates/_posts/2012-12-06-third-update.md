@@ -6,7 +6,7 @@ group: blog
 snippet: January Workshop Schedule
 image: http://db.tt/304ilUgG
 section: updates
-published: false
+published: true
 ---
 
 ### Corporate Plan Update and Workshop Schedule
