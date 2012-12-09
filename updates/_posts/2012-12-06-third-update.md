@@ -36,7 +36,7 @@ It is essential that you confirm your place at the workshop you wish to attend a
  
 2pm Monday 21st January TBC - County House, Lifford, Co. Donegal	
 
-6pm Tuesday 22nd January - Public Sector only -IPI offices, Dublin
+6pm Tuesday 22nd January - Public Sector only - IPI offices, Dublin - [click here to book] (http://ipipublic22jan.eventbrite.ie)
 
 6pm Wednesday 23rd January - Private Practice only - IPI offices, Dublin		
 
