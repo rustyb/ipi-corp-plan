@@ -6,7 +6,7 @@ group: blog
 snippet: Members' Survey Launched - Closes 21st December
 image: http://farm9.staticflickr.com/8458/8072047892_072bfaeab4.jpg
 section: updates
-published: true
+published: false
 photo: true
 ---
 
