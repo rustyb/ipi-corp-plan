@@ -35,7 +35,7 @@ The following workshops are scheduled for the New Year. Planners across all cate
 
 It is essential that you confirm your place at the workshop you wish to attend as soon as possible via the links below or by email to corporateplan@ipi.ie. An Issues Paper will be available in advance of these workshops. Please feel free to encourage your colleagues to participate and non-members may also attend.
  
-**2pm Monday 21st January** TBC - County House, Lifford, Co. Donegal	
+**2pm Monday 21st January** - County House, Lifford, Co. Donegal	
 
 **6pm Tuesday 22nd January** - Public Sector only - IPI offices, Dublin - [click here to book] (http://ipipublic22jan.eventbrite.ie)
 
