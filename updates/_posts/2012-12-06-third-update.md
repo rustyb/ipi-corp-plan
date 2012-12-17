@@ -47,7 +47,7 @@ It is essential that you confirm your place at the workshop you wish to attend a
 
 **6pm Tuesday 29th January** - Open to all, Limerick County Council HQ, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)	
 
-**2pm Wednesday 30th January** - Open to all, Waterford City Council Offices
+**2pm Wednesday 30th January** - Open to all, Waterford City Council Offices, details TBA
 
 **6pm Thursday 31st January** - Open to all, Annebrook Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
 
