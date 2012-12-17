@@ -43,13 +43,15 @@ It is essential that you confirm your place at the workshop you wish to attend a
 
 **5pm Thursday 24th January** - Open to all but particularly Students/Graduates/YPN	- DIT Bolton Street, Dublin	- [click here to book] (http://youngplanner24jan.eventbrite.ie)
 
-**6pm Monday 28th January**	- MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
+**6pm Monday 28th January**	- Open to all, MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
 
-**6pm Tuesday 29th January** - Limerick County Council, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)		
+**6pm Tuesday 29th January** - Open to all, Limerick County Council HQ, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)	
 
-**6pm Thursday 31st January** - Venue TBC, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
+**2pm Wednesday 30th January** - Open to all, Waterford City Council Offices
 
-**6pm Tuesday 5th February** - IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
+**6pm Thursday 31st January** - Open to all, Annebrook Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
+
+**6pm Tuesday 5th February** - Open to all, IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
 
 **TBC** - Belfast	
 
