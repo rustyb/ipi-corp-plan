@@ -35,23 +35,23 @@ The following workshops are scheduled for the New Year. Planners across all cate
 
 It is essential that you confirm your place at the workshop you wish to attend as soon as possible via the links below or by email to corporateplan@ipi.ie. An Issues Paper will be available in advance of these workshops. Please feel free to encourage your colleagues to participate and non-members may also attend.
  
-**2pm Monday 21st January** - County House, Lifford, Co. Donegal - [click here to book] (http://ipidonegal21stjan.eventbrite.ie)
+**2pm Monday 21st January** - Open, County House, Lifford, Co. Donegal - [click here to book] (http://ipidonegal21stjan.eventbrite.ie)
 
 **6pm Tuesday 22nd January** - Public Sector only - IPI offices, Dublin - [click here to book] (http://ipipublic22jan.eventbrite.ie)
 
 **6pm Wednesday 23rd January** - Private Practice only - IPI offices, Dublin - [click here to book] (http://ipiprvt23jan.eventbrite.ie)	
 
-**5pm Thursday 24th January** - Open to all but particularly Students/Graduates/YPN	- DIT Bolton Street, Dublin	- [click here to book] (http://youngplanner24jan.eventbrite.ie)
+**5pm Thursday 24th January** - Open but particularly Students/Graduates/YPN	- DIT Bolton Street, Dublin	- [click here to book] (http://youngplanner24jan.eventbrite.ie)
 
-**6pm Monday 28th January**	- Open to all, MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
+**6pm Monday 28th January**	- Open, MPlan Studios, UCC Connolly Buildings, Mardyke Parade Cork - [click here to book] (http://south28thjan.eventbrite.ie)	
 
-**6pm Tuesday 29th January** - Open to all, Limerick County Council HQ, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)	
+**6pm Tuesday 29th January** - Open, Limerick County Council HQ, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)	
 
-**2pm Wednesday 30th January** - Open to all, Waterford City Council, Colbeck Room, Menapia Building(House of Waterford Crystal) - [click here to book] (http://ipisoutheast30thjan.eventbrite.ie)
+**2pm Wednesday 30th January** - Open, Waterford City Council, Colbeck Room, Menapia Building(House of Waterford Crystal) - [click here to book] (http://ipisoutheast30thjan.eventbrite.ie)
 
-**6pm Thursday 31st January** - Open to all, Annebrook House Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
+**6pm Thursday 31st January** - Open, Annebrook House Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
 
-**6pm Tuesday 5th February** - Open to all, IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
+**6pm Tuesday 5th February** - Open, IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
 
 **TBC** - Belfast	
 
