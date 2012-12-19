@@ -47,7 +47,7 @@ It is essential that you confirm your place at the workshop you wish to attend a
 
 **6pm Tuesday 29th January** - Open, Limerick County Council HQ, Dooradoyle, Limerick - [click here to book] (http://midwest29thjan.eventbrite.ie)	
 
-**2pm Wednesday 30th January** - Open, Waterford City Council, Colbeck Room, Menapia Building(House of Waterford Crystal) - [click here to book] (http://ipisoutheast30thjan.eventbrite.ie)
+**2pm Wednesday 30th January** - Open, Waterford City Council, Colbeck Room, Menapia Building (House of Waterford Crystal), The Mall, Waterford - [click here to book] (http://ipisoutheast30thjan.eventbrite.ie)
 
 **6pm Thursday 31st January** - Open, Annebrook House Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
 
