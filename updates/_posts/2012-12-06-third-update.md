@@ -9,29 +9,9 @@ section: updates
 published: true
 ---
 
-### Corporate Plan Update and Workshop Schedule
+### Corporate Plan Workshop Schedule
 
-The timeline below presents the key opportunities for you to participate in the development of the Plan up to its completion in May 2013. 
- 
-**October 2012** - Corporate Plan process launched, background research begins & suggestions invited to corporateplan@ipi.ie
-
-**10th December 2012**	- Online survey issued to members by email
-
-**21st December 2012** - Online survey closing date
-
-**18th January 2013** - Issues Paper issued for consultation
-
-**January 2013** - Facilitated workshops take place-see details below
-
-**March 2013** - Consultation on Draft Plan
-
-**April 2013** - Consultation on Final Draft Plan
-
-**May 2013** - Plan adopted at AGM
- 
-The upcoming opportunities to engage in the process are the online survey being issued by email to this address next Monday, 10th December and the facilitated  workshops being held across Ireland in the New Year. Your participation in the survey is vital to ensure the Issues Paper properly reflects the matters you believe the Plan should consider. The workshops will discuss the areas above, the topics identified in the Issues Paper and any other matters regarding the Institute and its role and operations you wish to raise.
- 
-The following workshops are scheduled for the New Year. Planners across all categories and sectors are urged to attend but one workshop is targeted at those in private practice, one is aimed at those in the public sector and another is aimed at graduate and young planners.
+The following workshops are scheduled for 2013. Planners across all categories and sectors are urged to attend but one workshop is targeted at those in private practice, one is aimed at those in the public sector and another is aimed at graduate and young planners.
 
 It is essential that you confirm your place at the workshop you wish to attend as soon as possible via the links below or by email to corporateplan@ipi.ie. An Issues Paper will be available in advance of these workshops. Please feel free to encourage your colleagues to participate and non-members may also attend.
  
@@ -51,12 +31,30 @@ It is essential that you confirm your place at the workshop you wish to attend a
 
 **6pm Thursday 31st January** - Open, Annebrook House Hotel, Mullingar - [click here to book] (http://midlands31stjan.eventbrite.ie)	
 
-**6pm Tuesday 5th February** - Open, IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
+**3:30pm Friday 1st February** - The Assembly Buildings Conference Centre (The Spires), Fisherwick Place, Belfast Belfast
 
-**TBC** - Belfast	
+**6pm Tuesday 5th February** - Open, IPI offices, Dublin - [click here to book] (http://ipiopen5thfeb.eventbrite.ie)
 
 **TBC** - Galway	
  
 If you are not available to attend a workshop, the Corporate Plan steering group welcome any comments on the forthcoming Issues Paper or general suggestions by email to corporateplan@ipi.ie and all members are encouraged to complete the online survey next week.  
+
+The timeline below presents the key opportunities for you to participate in the development of the Plan up to its completion in May 2013. 
+ 
+**October 2012** - Corporate Plan process launched, background research begins & suggestions invited to corporateplan@ipi.ie
+
+**10th December 2012**	- Online survey issued to members by email
+
+**21st December 2012** - Online survey closing date
+
+**18th January 2013** - Issues Paper issued for consultation
+
+**January 2013** - Facilitated workshops take place-see details below
+
+**March 2013** - Consultation on Draft Plan
+
+**April 2013** - Consultation on Final Draft Plan
+
+**May 2013** - Plan adopted at AGM
 
 This has been updated by [IPIrl](http://github.com/IPIrl) using Prose.io and GitHub.
