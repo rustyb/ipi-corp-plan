@@ -8,6 +8,7 @@ baseurl: http://corporateplan.ipi.ie
 url: http://corporateplan.ipi.ie
 prose:
   metadata:
+      rooturl: "_posts"
     "_posts/updates": |
       title:    "This is an update"
       layout: "post"
