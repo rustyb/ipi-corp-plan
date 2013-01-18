@@ -46,8 +46,7 @@
 					{% endif %}
 					<ul class="breadcrumbs">
 					  <li><a href="{{ site.baseurl}}">Home</a></li>
-					  <li><a href="{% post_url 2012-10-10-updates %}">Updates</a></li>
-					  <li>[Name of Link]({% post_url 2012-10-10-updates %})</li>
+					  <li><a href="{{ site.baseurl}}{% post_url 2012-10-10-updates %}">Updates</a></li>
 					  <li class="current"><a href="{{post.url}}">{{page.title}}</a></li>
 					</ul>
 					
