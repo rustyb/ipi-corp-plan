@@ -6,14 +6,16 @@ group: blog
 snippet: We are now inviting feedback on our Issues Paper
 image: http://dl.dropbox.com/u/16793157/130118%20CP%20issues%20paper_Page_01a.jpg
 section: updates
-published: false
+published: true
 ---
 
 # Corporate Plan Issues Paper
 
 We are now seeking your views on an Issues Paper which has been prepared as part of developing a Corporate Plan and Business Plan for the Irish Planning Institute. The closing date for comments is Friday 8th February 2013.
 
-To download the Issues Paper click here
+To read the Issues Paper online [click here](http://issuu.com/ipiplanner/docs/issuespaper)
+
+To download the Issues Paper [click here](http://www.irishplanninginstitute.ie/uploads/files/IPI%20Corporate%20Plan%20Issues%20Paper.pdf)
 
 For the purposes of the Issues Paper topics are placed within 9 key strategic headings:
 
