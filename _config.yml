@@ -6,3 +6,23 @@ exclude:
 permalink: pretty
 baseurl: http://corporateplan.ipi.ie
 url: http://corporateplan.ipi.ie
+prose:
+  metadata:
+    "_posts/updates": |
+      title:    "This is an update"
+      layout: "post"
+      permalink: /updates/this-is-an-update
+      group: "blog"
+      snippet: "Update this section with a snippet"
+      image: "http://dl.dropbox.com/u/16793157/130118%20CP%20issues%20paper_Page_01a.jpg"
+      section:"updates"
+      published: "true"
+    "_posts/projects": |
+      name: "Project Name"
+      img:  "Project Thumbnail"
+      layout: "default"
+      published: "true"
+      title: "Consultant"
+      permalink: "/this-is-a-new-page"
+      group: "navigation" #show in right nav in about section
+      section: "about" #will show in side bar of about section
