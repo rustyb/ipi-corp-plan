@@ -37,5 +37,5 @@ Comments and submissions can be sent by email or by post or made by telephone to
 
 Email:  corporateplan@ipi.ie
 Post: Irish Planning Institute,Floor 3,The Courtyard,25 Great Strand Street,Dublin 1
-Telephone: 01 878 8630 
-
+Telephone: 01 878 8630
+{% post_url 2012-10-10-updates %}
