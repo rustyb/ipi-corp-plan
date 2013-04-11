@@ -51,10 +51,8 @@ The timeline below presents the key opportunities for you to participate in the 
 
 **January 2013** - Facilitated workshops take place-see details below
 
-**March 2013** - Consultation on Draft Plan
+**April 2013** - Consultation on Draft Plan
 
-**April 2013** - Consultation on Final Draft Plan
-
-**May 2013** - Plan adopted at AGM
+**May 2013** - Plan presented at AGM
 
 This has been updated by [IPIrl](http://github.com/IPIrl) using Prose.io and GitHub.
