@@ -1,5 +1,5 @@
 ---
-title:    Consultation Draft
+title: Consultation Draft
 layout: post
 permalink: /updates/Consultation-Draft
 group: blog
@@ -14,7 +14,7 @@ published: true
 
 # Consultation Draft 
 
-The Institute is now inviting feedback on the consultation draft of the Irish Planning Institute’s first Corporate Plan which is to cover the period 2013-2017. 
+The Institute is now inviting feedback on the consultation draft of the Irish Planning Institute’s first Corporate Plan which is to cover the period 2013-2017. [Click here to download the draft Plan](http://www.irishplanninginstitute.ie/uploads/files/Consultation%20Draft%20IPI%20Corporate%20Plan.pdf)
  
 The draft Plan sets out Strategic Objectives for the next four years. These have been distilled from the inputs of members through submissions, workshops, surveys and interviews, from best practice in comparator organisations, from the experience of the Institute’s Council and past officers and from desk research exploring the Institute’s work and development to date.
 
