@@ -1,12 +1,13 @@
 ---
 title:    Consultation Draft
-layout: "post"
+layout: post
 permalink: /updates/Consultation-Draft
-group: "blog"
+group: blog
 snippet: Consultation Draft For Feedback
 image: http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg
-section:"updates"
-published: "true"
+section:updates
+published: true
+
 
 
 ---
