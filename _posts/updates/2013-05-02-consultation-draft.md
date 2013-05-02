@@ -7,9 +7,6 @@ snippet: Consultation Draft For Feedback
 image: http://dl.dropboxusercontent.com/u/85348868/121017_CP%20Notificaiton%201.jpg
 section:updates
 published: true
-
-
-
 ---
 
 # Consultation Draft 
