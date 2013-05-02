@@ -4,7 +4,7 @@ layout: post
 permalink: /updates/Consultation-Draft
 group: blog
 snippet: Consultation Draft For Feedback
-image: http://farm9.staticflickr.com/8160/6976473292_08dee4b040_z.jpg
+image: http://dl.dropboxusercontent.com/u/85348868/121017_CP%20Notificaiton%201.jpg
 section:updates
 published: true
 
